@@ -1,0 +1,1 @@
+#Codigo em python para rolar dados de RPG
